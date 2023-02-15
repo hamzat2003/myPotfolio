@@ -367,5 +367,6 @@ nav .fa-solid{
     }
     .copyright{
         font-size: 14px;
+        position: relative;
     }
  }
